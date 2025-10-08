@@ -1,4 +1,4 @@
-# 🎮 Megaman Prototype
+# 🎮 Protoman
 
 Prototipo funcional de videojuego estilo Megaman creado con HTML5 Canvas y JavaScript vanilla.
 
